@@ -1,0 +1,113 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+   
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+
+.my-1{
+    margin-left: 50px;
+    margin-top: 250px;
+    margin-bottom: 20px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color:#08a2ab;
+    font-family: 'Dancing Script';
+ 
+   
+   
+
+
+}
+
+.my-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #08a2ab;
+    
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: #08a2ab;
+}
+ 
+.text-center{
+    text-align: center;
+}
+ 
+
+.btn{
+    padding: 4px 12px;
+    border:2px solid #08a2ab ;
+    color: white;
+    background-color: #08a2ab;
+    border-radius: 2rem;
+    
+    
+ 
+}
+.btn2{
+    position: relative;
+    z-index: 2;
+    background: #fff;
+    color: #262626;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 40px;
+    display: block;
+    text-align: center;
+    margin: 20px auto 0;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+.btn2:hover {
+    text-decoration: none;
+}
+
+
+
+
+
